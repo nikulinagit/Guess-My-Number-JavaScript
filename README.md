@@ -1,4 +1,4 @@
-# Simle game Guess My Number using CSS, HTML and JavaScript
+# A simple game Guess My Number using CSS, HTML and JavaScript
 
 **A "Guess My Number" project is a simple and fun interactive game that can be implemented using HTML, CSS, and JavaScript. The main goal of the project is to create a game where players can guess a randomly generated secret number within a specified range. This is one of the educational projects from the course "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann on the Udemy**  
 
